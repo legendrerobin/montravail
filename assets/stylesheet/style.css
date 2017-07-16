@@ -1,0 +1,29 @@
+
+body
+{
+	 
+	 background-image: url("../images/mohamed.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 color: white;
+	 font-family: 'Kurale', serif;
+}
+
+h1, p
+{
+	color: silver;
+	text-align: center;
+	/* font-family: 'alex_brushregular'; */
+}
+
+#ring
+{
+	text-align: left;
+
+}
+
+
+h2, ul 
+{
+	margin: 6px 12px 6px 6px;
+}
